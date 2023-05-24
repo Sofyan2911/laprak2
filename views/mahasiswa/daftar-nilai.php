@@ -1,0 +1,1 @@
+<H1>ini file nilai</H1>
